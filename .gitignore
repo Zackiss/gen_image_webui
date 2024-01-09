@@ -1,0 +1,10 @@
+temp/
+**/__pycache__/
+.DS_Store
+outputs/
+outputs.*
+image_templates.zip
+core
+image_templates
+test/
+*.json
